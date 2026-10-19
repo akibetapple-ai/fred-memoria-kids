@@ -1,0 +1,23 @@
+FRED MEMORIA KIDS — REVISIÓN PENDIENTE
+
+Este ZIP ya incluye un sitio web funcional y un enlace interno a privacidad.html.
+
+DATOS QUE DEBES COMPLETAR:
+
+1) CORREO DE SOPORTE:
+   Archivo: assets/js/config.js
+   Valor de ejemplo actual: soporte@ejemplo.com
+   Sustitúyelo por tu correo real.
+
+2) POLÍTICA DE PRIVACIDAD:
+   Archivo: privacidad.html
+   Es un BORRADOR, no una declaración jurídica definitiva.
+   Completa nombre legal del responsable, correo de contacto,
+   prácticas reales de almacenamiento, tratamiento de datos,
+   SDK de terceros, analítica y requisitos de privacidad infantil.
+
+3) PUBLICACIÓN:
+   Sigue las instrucciones del README.md.
+   GitHub Pages es gratuito para un sitio estático como este.
+
+IMPORTANTE: Las imágenes originales que entregaste no han sido modificadas.
